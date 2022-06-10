@@ -7,8 +7,9 @@ biotechnological company in which had a crucial role in the development of new p
 
 
 - 🌱**I’m currently learning:**
-📖 The fundamental concepts of data analysis, as I am still fairly new to the field!
-🔧 More advanced uses of Python and Matlab
+📖 The fundamental concepts of data analysis, as I am still new to the field!
+🔧 Uses of Python and Matlab in Bioprocess
+💻 Continuous improvement of my skills to become as an future Data Scientist. I'm in love of this area 😍
 
 
 - 👯 **I’m looking to collaborate on:***
